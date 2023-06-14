@@ -1,5 +1,0 @@
-﻿  Assignment1CS303 JUAN.cpp
-C:\Users\Juan2\source\repos\Assignment1CS303 JUAN\Assignment1CS303 JUAN\Assignment1CS303 JUAN.cpp(53,21): warning C4101: 'input': unreferenced local variable
-C:\Users\Juan2\source\repos\Assignment1CS303 JUAN\Assignment1CS303 JUAN\Assignment1CS303 JUAN.cpp(79,21): warning C4101: 'input': unreferenced local variable
-x64\Debug\Functions.obj : warning LNK4042: object specified more than once; extras ignored
-  Assignment1CS303 JUAN.vcxproj -> C:\Users\Juan2\source\repos\Assignment1CS303 JUAN\x64\Debug\Assignment1CS303 JUAN.exe
